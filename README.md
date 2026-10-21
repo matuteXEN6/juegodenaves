@@ -11,7 +11,7 @@ El proyecto fue desarrollado como **Actividad 8** de la materia **Laboratorio de
 
 | | |
 |---|---|
-| **Institución** | E.E.S.T. N° 999 "Österreichische Schule der Nationalökonomie" — Vicente López |
+| **Institución** | E.E.S.T. N° 1 — Vicente López |
 | **Materia** | Laboratorio de Programación (LPR) — 5° Año, 3° A-B |
 | **Actividad** | 8 — Introducción a POO: Juego de Naves en Consola (`class Nave`) |
 | **Docente** | Mansilla Muñoz York |
